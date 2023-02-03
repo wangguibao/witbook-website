@@ -1,0 +1,92 @@
+/* ---------------------------------------------------------
+   HTML5 Bones
+   This stylesheet contains print styling and a section for 
+   you to simply add your own. This is a basic template 
+   after all.
+   ---------------------------------------------------------*/
+@media (prefers-color-scheme: light) {
+    body {
+     }
+     /* Default link styling */
+     a:link { color:#0271fb; }
+     a:visited { color:#bd02fb; }
+     a:hover, a:focus { color:#000; }
+     a:active { color:#fb0e02; }
+}
+
+/*---------------------------------------------------------
+@media (prefers-color-scheme: dark) {
+      body {
+          color: #eee;
+          background: #121212;
+      }
+      /* Default link styling */
+      a:link { color:#0271fb; }
+      a:visited { color:#bd02fb; }
+      a:hover, a:focus { color:#000; }
+      a:active { color:#fb0e02; }
+}
+-----------------------------------------------------------*/
+.wrapper, .header, .logo, .search, .footer {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.wrapper {
+    flex-direction: column;
+    height: 100%;
+}
+
+.header {
+    height: 60px;
+}
+
+.logo {
+    min-height: 90px;
+    max-height: 290px;
+    height: clac(100% - 560px);
+    align-items: center;
+}
+
+.search {
+    padding: 20px;
+    max-height: 160px;
+    align-items: center;
+}
+
+
+/* ---------------------------------------------------------
+   Print styles
+   ---------------------------------------------------------*/
+@media print {
+    * {
+        color:#000 !important;
+        box-shadow:none !important;
+        text-shadow:none !important;
+        background:transparent !important;
+    }
+    html { background-color:#fff; }
+    /* Hide navigation */
+    nav { display:none; }
+
+    /* Show link destinations in brackets after the link text */
+    a[href]:after { content: " (" attr(href) ") "; }
+    a[href] {
+        font-weight:bold;
+        text-decoration:underline;
+        color:#06c;
+        border:none;
+    }
+    /* Don't show link destinations for JavaScript or internal links */ 
+    a[href^="javascript:"]:after, a[href^="#"]:after { content:""; }
+    
+    /* Show abbr title value in brackets after the text */
+    abbr[title]:after { content: " (" attr(title) ")"; }
+
+    figure { 
+        margin-bottom:1em; 
+        overflow:hidden;
+    }
+
+    figure img { border:1px solid #000; }
+}
