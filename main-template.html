@@ -30,9 +30,9 @@
     <header role="banner">
     </header>
 
-    <div class="wrapper">
+    <div id="wrapper">
         <!-- If you want to use an element as a wrapper, i.e. for styling only, then <div> is still the element to use -->
-        <div class="header">
+        <div id="header">
             <!-- ARIA: the landmark role "navigation" is added here as the element contains site navigation
             NOTE: The <nav> element does not have to be contained within a <header> element, even though the two examples on this page are. -->
             <nav role="navigation">
@@ -40,8 +40,8 @@
                 <a href = "http://www.witgames.com">WITGAMES</a>|<a href="/contact/">CONTACT</a>
             </nav>
         </div>
-        <div class="logo"><img src="https://www.google.com.hk/images/branding/googlelogo/1x/googlelogo_light_color_272x92dp.png"></img></div>
-        <div class="search">
+        <div id="logo"><img src="resource/icon.png"></img></div>
+        <div id="search">
             <form action="/search" method="GET" role="search">
                 <input type="text" id="search_keyword" name="search_keyword"></input>
                 <input type="Submit" value="Search"></input>
@@ -49,17 +49,19 @@
         </div>
     </div>
 
+    <div id="todays_pick">
+    </div>
     <!-- The main page footer can contain items such as copyright and contact information. It can also contain a duplicated navigation of your site which is not usually contained within a <nav> -->
     <!-- ARIA: the landmark role "contentinfo" is added here as it contains metadata that applies to the parent document -->
-    <div class="footer" role="contentinfo">
+    <div id="footer" role="contentinfo">
 
         <!-- The <address> element contains contact information for the nearest <article> or <body> element. This example is for the <body> -->
         <address>
-          <p>For further information, please contact <a href="mailto:admin@example.com">Max Mustermann</a>.</p>
+          <p>For more information, please contact <a href="/contact/">Admin</a>.</p>
         </address>
 
         <!-- Copyright information can be contained within the <small> element. The <time> element is used here to indicate that the '2018' is a date -->
-        <small>Copyright &copy; <time>2018</time></small>
+        <small>Copyright &copy; <time>2023</time></small>
 
     </div>
 
