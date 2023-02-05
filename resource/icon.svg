@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:zoom="2"
-     inkscape:cx="178.25"
-     inkscape:cy="447.75"
+     inkscape:cx="178.75"
+     inkscape:cy="448.25"
      inkscape:window-width="1024"
      inkscape:window-height="721"
      inkscape:window-x="-4"
@@ -45,7 +45,7 @@
      id="layer1">
     <text
        xml:space="preserve"
-       style="font-size:8.46667px;fill:#000000;stroke-width:0.264583"
+       style="font-size:8.46667px;fill:#000000;stroke-width:0.264583;-inkscape-font-specification:'Century Gothic';font-family:'Century Gothic';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
        x="26.69628"
        y="97.886353"
        id="text115"
@@ -54,22 +54,22 @@
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan113"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:'Segoe Script';-inkscape-font-specification:'Segoe Script Bold';stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';stroke-width:0.264583"
          x="26.69628"
          y="97.886353"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Segoe Script';-inkscape-font-specification:'Segoe Script Bold';fill:#2a2aff"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';fill:#2a2aff"
            id="tspan167">W</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Segoe Script';-inkscape-font-specification:'Segoe Script Bold';fill:#ff0000"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';fill:#ff0000"
            id="tspan271">I</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Segoe Script';-inkscape-font-specification:'Segoe Script Bold';fill:#ffcc00"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';fill:#ffcc00"
            id="tspan583">T</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Segoe Script';-inkscape-font-specification:'Segoe Script Bold';fill:#2a2aff"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';fill:#2a2aff"
            id="tspan687">B</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Segoe Script';-inkscape-font-specification:'Segoe Script Bold';fill:#00aa00"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';fill:#00aa00"
            id="tspan897">OO</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Segoe Script';-inkscape-font-specification:'Segoe Script Bold';fill:#ffcc00"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';fill:#ffcc00"
            id="tspan1003">K</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Segoe Script';-inkscape-font-specification:'Segoe Script Bold';fill:#2a2aff"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';fill:#2a2aff"
            id="tspan1005">S</tspan></tspan></text>
   </g>
 </svg>
