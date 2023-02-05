@@ -24,9 +24,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="2"
-     inkscape:cx="178.75"
-     inkscape:cy="448.25"
+     inkscape:zoom="1"
+     inkscape:cx="186.5"
+     inkscape:cy="455.5"
      inkscape:window-width="1024"
      inkscape:window-height="721"
      inkscape:window-x="-4"
@@ -45,7 +45,7 @@
      id="layer1">
     <text
        xml:space="preserve"
-       style="font-size:8.46667px;fill:#000000;stroke-width:0.264583;-inkscape-font-specification:'Century Gothic';font-family:'Century Gothic';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';fill:#000000;stroke-width:0.264583"
        x="26.69628"
        y="97.886353"
        id="text115"
@@ -54,22 +54,22 @@
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan113"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';stroke-width:0.264583"
          x="26.69628"
          y="97.886353"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';fill:#2a2aff"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';fill:#2a2aff"
            id="tspan167">W</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';fill:#ff0000"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';fill:#ff0000"
            id="tspan271">I</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';fill:#ffcc00"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';fill:#ffcc00"
            id="tspan583">T</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';fill:#2a2aff"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';fill:#2a2aff"
            id="tspan687">B</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';fill:#00aa00"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';fill:#00aa00"
            id="tspan897">OO</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';fill:#ffcc00"
-           id="tspan1003">K</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';fill:#2a2aff"
-           id="tspan1005">S</tspan></tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';fill:#2a2aff"
+           id="tspan1003">K<tspan
+   style="fill:#ffcc00"
+   id="tspan304">S</tspan></tspan></tspan></text>
   </g>
 </svg>
