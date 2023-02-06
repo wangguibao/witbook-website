@@ -23,8 +23,8 @@
     <!-- Include the HTML5 shiv print polyfill for Internet Explorer browsers 8 and below -->
     <!--[if lt IE 9]><script src="js/html5shiv-printshiv.js" media="all"></script><![endif]-->
 </head>
-<body>
 
+<body>
     <!-- The page header typically contains items such as your site heading, logo and possibly the main site navigation -->
     <!-- ARIA: the landmark role "banner" is set as it is the prime heading or internal title of the page -->
     <header role="banner">
@@ -47,23 +47,21 @@
                 <input type="Submit" value="Search"></input>
             </form>
         </div>
+
+        <div id="todays_pick">
+        </div>
+        <!-- The main page footer can contain items such as copyright and contact information. It can also contain a duplicated navigation of your site which is not usually contained within a <nav> -->
+        <!-- ARIA: the landmark role "contentinfo" is added here as it contains metadata that applies to the parent document -->
+        <div id="footer" role="contentinfo">
+
+            <!-- The <address> element contains contact information for the nearest <article> or <body> element. This example is for the <body> -->
+            <address>
+              <p>For more information, please contact <a href="/contact/">Admin</a>.</p>
+            </address>
+
+            <!-- Copyright information can be contained within the <small> element. The <time> element is used here to indicate that the '2018' is a date -->
+            <small>Copyright &copy; <time>2023</time></small>
+        </div>
     </div>
-
-    <div id="todays_pick">
-    </div>
-    <!-- The main page footer can contain items such as copyright and contact information. It can also contain a duplicated navigation of your site which is not usually contained within a <nav> -->
-    <!-- ARIA: the landmark role "contentinfo" is added here as it contains metadata that applies to the parent document -->
-    <div id="footer" role="contentinfo">
-
-        <!-- The <address> element contains contact information for the nearest <article> or <body> element. This example is for the <body> -->
-        <address>
-          <p>For more information, please contact <a href="/contact/">Admin</a>.</p>
-        </address>
-
-        <!-- Copyright information can be contained within the <small> element. The <time> element is used here to indicate that the '2018' is a date -->
-        <small>Copyright &copy; <time>2023</time></small>
-
-    </div>
-
 </body>
 </html>
