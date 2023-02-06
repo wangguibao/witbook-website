@@ -34,6 +34,10 @@ html, body {
     height: 100%;
 }
 
+body {
+	font-family: Roboto,Helvetica Neue,Arial,sans-serif;
+}
+
 #wrapper, #header, #logo, #search, #todays_pick, #footer {
     display: flex;
 }
